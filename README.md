@@ -9,3 +9,4 @@
 
 7. now go to "http://localhost/EmployeeTrainingSys/" to test the system
 
+You can choose the role of the website, employee for the test, administrator for the
