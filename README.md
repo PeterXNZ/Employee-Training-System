@@ -9,4 +9,4 @@
 
 7. now go to "http://localhost/EmployeeTrainingSys/" to test the system
 
-You can choose the role of the website, employee for the test, administrator for the
+You can choose the role of the website, employee can do the test, administrator can manage employees , instructor can assign group and assign courses
